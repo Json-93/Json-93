@@ -5,3 +5,4 @@
 4. https://github.com/HsuChiChen/fourier-series-plot (中文)
 5. https://github.com/983/Elephant
 6. https://github.com/jasonfyw/fourier-series
+    https://jasonfyw.com/fourier-series/
