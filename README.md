@@ -6,3 +6,4 @@
 5. https://github.com/983/Elephant
 6. https://github.com/jasonfyw/fourier-series
     https://jasonfyw.com/fourier-series/
+7. https://github.com/AstroKhet/Fourier-Series
