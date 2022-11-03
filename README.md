@@ -2,3 +2,4 @@
 1. https://github.com/WiraDKP/Discrete_Fourier_Transform_Epicycle
 2. https://github.com/friedkeenan/Epicycles
 3. https://github.com/ZMaciej/FourierSketcher
+4. https://github.com/HsuChiChen/fourier-series-plot (中文)
