@@ -7,3 +7,4 @@
 6. https://github.com/jasonfyw/fourier-series
     https://jasonfyw.com/fourier-series/
 7. https://github.com/AstroKhet/Fourier-Series
+8. https://github.com/Flundrahn/manim-fourier-project
